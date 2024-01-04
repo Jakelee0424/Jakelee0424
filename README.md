@@ -27,6 +27,8 @@
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/d48367f5-2c94-4eb5-8ded-f92f0123df6f">&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
+
 - 🌱 I’m currently interested in ** React **
 - 📫 Contact me through E-mail ** qkql006@gmail.com ** 
 
