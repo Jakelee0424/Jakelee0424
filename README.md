@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jakelee0424
 - 🌱 I have learned 
-- >Language & Framework
+
+>Language & Framework
 <p>
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/ddc4b631-cd89-4305-b5f9-a94c759b5cc9">&nbsp;&nbsp;&nbsp;
   <img width="72px" src="https://github.com/kdhleppa/finalProject/assets/139316047/d09762e0-0973-4e6c-ba81-525898aee795">&nbsp;&nbsp;&nbsp;
