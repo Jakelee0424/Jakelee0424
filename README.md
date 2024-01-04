@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jakelee0424
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakelee0424 )](https://github.com/anuraghazra/github-readme-stats)
+<p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakelee0424 )](https://github.com/anuraghazra/github-readme-stats)  
+</p>
 
 - 🌱 I have learned 
 
