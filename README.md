@@ -29,7 +29,7 @@
 
 <br>
 
-- 🌱 I’m currently interested in ** React **
+- 🌱 currently interested in ** React **
 - 📫 Contact me through E-mail ** qkql006@gmail.com ** 
 - ✨Project github URL
   1) https://github.com/rbdus0515/ProjectLAGC
