@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jakelee0424<br><br>
+- 👋 Hi, I’m @Jakelee0424<br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -8,7 +8,7 @@
 />
 </a>
 
-<br>
+<br><br>
 
 - ✨Project github URL
   1) https://github.com/rbdus0515/ProjectLAGC
