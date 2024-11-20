@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @Jakelee0424<br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakelee0424 )](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Jakelee0424"
+  width="600"
+  height="300"
+/>
+</a>
 
 <br>
 
